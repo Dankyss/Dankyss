@@ -1,4 +1,5 @@
 <h2>Hello 👋 I'm Danky!</h2>
+<h4>I do stuff and I like JavaScript/NodeJS over typescript :)</h4>
 
 <h2>Languages & Tools</h2>
 <p align="left">
