@@ -1,5 +1,5 @@
 <h2>Hello 👋</h2>
-<h4>I do stuff and I like JavaScript/NodeJS over typescript :)</h4>
+<h4>I do stuff and I like JavaScript/NodeJS over TypeScript :)</h4>
 <h4>I know <a href="https://discord.js.org">discord.js</a> pretty well and I also make stuff for the <a href="https://rage.mp">RageMP</a> platform</h4>
 
 <h2>Languages & Tools</h2>
