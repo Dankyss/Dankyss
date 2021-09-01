@@ -14,4 +14,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 </p>
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dankyss)
+
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Dankyss.Dankyss" alt="visitors"></p>
+
