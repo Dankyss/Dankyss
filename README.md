@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 </p>
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dankyss)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dankyss&theme=github_dark" />
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Dankyss.Dankyss" alt="visitors"></p>
 
