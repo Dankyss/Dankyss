@@ -1,11 +1,11 @@
-# Hello 👋
+<div align="left">
+  <h2>Hello 👋</h2>
 
-I enjoy coding in my spare time (so all the time) Im based in 🇨🇦 Canada</br></br>
+  <h4>Backend dev from 🇨🇦 Canada</h4>
 
-I know Discord.JS pretty well and prefer working on backend projects.</br>
+  <h4></h4>
 
-![Langs](https://readme-stats-iota.vercel.app/api/top-langs/?username=Dankyss&border_color=21262D&langs_count=10&hide_border=false&theme=github_dark&layout=compact)<br/>
-
-
-Thank you for visiting :)<br/><br/>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Dankyss.Dankyss)
+  <img src="https://readme-stats-iota.vercel.app/api/top-langs/?username=Dankyss&border_color=21262D&langs_count=10&hide_border=false&theme=github_dark&layout=compact" />
+  <br><br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Dankyss.Dankyss" />
+</div>
