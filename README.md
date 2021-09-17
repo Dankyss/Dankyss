@@ -1,7 +1,7 @@
 <div align="left">
   <h2>Hello 👋</h2>
 
-  <h4>Backend dev from 🇨🇦 Canada</h4>
+  <h4>Backend developer from 🇨🇦 Canada</h4>
 
   <h4></h4>
 
