@@ -1,7 +1,7 @@
 <div align="left">
   <h1>Hello 👋</h1>
 
-  <p>I make a lot of Discord bots, and other stuff somtimes.</p>
+  <p>I make games, Discord bots, and other things.</p>
 
   <img src="https://readme-stats-iota.vercel.app/api/top-langs/?username=Dankyss&border_color=21262D&langs_count=10&hide_border=false&theme=github_dark&layout=compact&cache_seconds=21600" />
   <br><br>
