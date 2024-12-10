@@ -7,8 +7,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2024 - To: 10 December 2024
-
 Total Time: 2 hrs 50 mins
 
 C#               2 hrs 20 mins   ████████████████████▓░░░░   82.41 %
