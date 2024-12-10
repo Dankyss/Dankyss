@@ -16,3 +16,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           REPOSITORY: Dankyss/Dankyss
+          SHOW_TITLE: true
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
