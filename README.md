@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 43 mins
+Total Time: 6 hrs 48 mins
 
-C#               3 hrs 58 mins   ██████████████▓░░░░░░░░░░   59.18 %
-Blender          2 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   31.77 %
-HTML             17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-TypeScript       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-ShaderLab        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+C#               3 hrs 58 mins   ██████████████▓░░░░░░░░░░   58.49 %
+Blender          2 hrs 13 mins   ████████░░░░░░░░░░░░░░░░░   32.56 %
+HTML             17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+TypeScript       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+ShaderLab        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
