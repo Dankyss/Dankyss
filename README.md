@@ -7,10 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 0 secs
 
-C#           2 mins          ██████████████░░░░░░░░░░░   55.86 %
-TypeScript   1 min           ███████████░░░░░░░░░░░░░░   44.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
