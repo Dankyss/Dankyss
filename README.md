@@ -1,8 +1,7 @@
 <div align="left">
   <h1>Hello 👋</h1>
 
-  <p>I make <a href="https://devbeef.com">video games</a>, Discord bots, and other things.</p>
-  <p>Currently learning Next.js 15!!!</p>
+  <p>I make <a href="https://devbeef.com">video games</a>, Discord bots, and other cool things.</p>
 </div>
 
 <!--START_SECTION:waka-->
