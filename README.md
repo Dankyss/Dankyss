@@ -7,10 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 5 mins
+Total Time: 53 mins
 
-C#               2 hrs 5 mins    █████████████████████████   99.99 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#   53 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
