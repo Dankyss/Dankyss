@@ -7,9 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 18 mins
 
-No activity tracked
+HTML          1 hr 15 mins    ████████████████████████░   96.17 %
+Objective-C   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+INI           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
