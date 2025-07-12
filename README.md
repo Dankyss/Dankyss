@@ -7,11 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 mins
+Total Time: 0 secs
 
-C#            3 mins          ████████████▒░░░░░░░░░░░░   48.99 %
-C++           2 mins          ██████████▒░░░░░░░░░░░░░░   41.54 %
-Objective-C   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
