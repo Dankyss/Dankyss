@@ -7,13 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 mins
+Total Time: 13 mins
 
-C++           10 mins         ███████████░░░░░░░░░░░░░░   44.36 %
-TypeScript    8 mins          █████████░░░░░░░░░░░░░░░░   36.12 %
-Bash          1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-JavaScript    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Objective-C   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+C++           11 mins         ███████████████████▒░░░░░   77.53 %
+Objective-C   2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+Other         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
