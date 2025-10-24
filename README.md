@@ -7,10 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 min
+Total Time: 0 secs
 
-C++           1 min           ███████████████████▓░░░░░   78.05 %
-Objective-C   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
